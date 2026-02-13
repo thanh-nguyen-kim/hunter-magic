@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_line_dashed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_line_dashed",
+  "parent":{
+    "name":"doodle_hunter_magic",
+    "path":"doodle_hunter_magic.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

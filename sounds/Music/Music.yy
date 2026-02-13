@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Music",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":3,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":31.187302,
+  "exportDir":"",
+  "name":"Music",
+  "parent":{
+    "name":"doodle_hunter_magic",
+    "path":"doodle_hunter_magic.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":11025,
+  "soundFile":"Music.mp3",
+  "volume":1.0,
+}

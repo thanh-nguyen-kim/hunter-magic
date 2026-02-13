@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"NotificationSystem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NotificationSystem",
+  "parent":{
+    "name":"doodle_hunter_magic",
+    "path":"doodle_hunter_magic.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
